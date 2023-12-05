@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My name is Sanskruti Bhujade
-### I am from 3rd year 
+## My name is Sanskruti Bhujade.
+### I am final year student form ECE with data science minors. 
